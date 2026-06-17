@@ -202,7 +202,3 @@ Customer Data Analysis Project
 [LinkedIn](https://www.linkedin.com/in/dharaniddj) · [GitHub](https://github.com/dharanidharanrx-alt)
 
 ---
-
-## 📄 License
-
-This project is for portfolio and educational purposes. Dataset sourced from public domain.
